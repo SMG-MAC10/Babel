@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "출혈 단검",
+        "img": "Script/Skill/Enemy/Normal/chainsawAttackImage",
+        "ability": "자신의 공격이 치명타로 적용된 경우, 피격자에게 3턴간 출혈 효과를 부여한다. 출혈에 걸린 적은 매 턴 시작시에 최대체력의 5%의 데미지를 입는다.",
+        "explain": "출혈을 유발할 수 잇도록 칼날이 톱날처럼 되어있다.",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }

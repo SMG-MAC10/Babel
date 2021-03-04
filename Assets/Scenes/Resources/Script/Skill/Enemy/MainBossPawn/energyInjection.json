@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "마나 드레인",
+        "img": "Script/Skill/Enemy/MainBossPawn/energyInjectionImage",
+        "ability": "적 모두에게서 현재 마나의 20%를 강탈하고, 그 수치만큼 보스의 체력을 회복시킨다.",
+        "explain": "마나를 흡수하여 골렘에게 주입시킨다.",
+        "cost": 5,
+        "upgrade": 1
+      }
+    ]
+  }

@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "피의 낙인",
+        "img": "Script/Skill/Enemy/SemiBoss/bloodyMarkImage",
+        "ability": "적 1인을 지정하여 5턴간 저주 효과를 건다. 해당 적이 스킬을 시전할 때마다 자신의 체력을 5%씩 회복한다.",
+        "explain": "피의 저주를 새겨 대상으로부터 체력을 빼앗아 회복한다.",
+        "cost": 6,
+        "upgrade": 1
+      }
+    ]
+  }

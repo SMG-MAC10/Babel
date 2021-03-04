@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "낙인 생성",
+        "img": "Script/Skill/Enemy/SemiBossPawn/curseMarkingImage",
+        "ability": "적이 공격할 때마다 낙인 효과 1개를 보스에게 부여한다.",
+        "explain": "적들이 행동할 때마다 낙인이 생성된다.",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }

@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "지진",
+        "img": "Script/Skill/Enemy/MainBoss/earthquakeImage",
+        "ability": "지진을 일으켜 모든 적을 마법공격력의 100%의 마법데미지로 공격하고 40%의 확률로 2턴간 기절시킨다. 기절당한 적은 추가로 100%의 데미지를 입고 3턴간 행동력이 20% 감소한다.",
+        "explain": "땅을 울리는 지진으로 적들을 행동불능에 빠뜨린다.",
+        "cost": 5,
+        "upgrade": 1
+      }
+    ]
+  }

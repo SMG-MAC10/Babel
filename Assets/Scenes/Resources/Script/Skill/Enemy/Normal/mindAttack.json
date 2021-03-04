@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "정신 공격",
+        "img": "Script/Skill/Enemy/Normal/mindAttackImage",
+        "ability": "모든 적에게 자신의 마법공격력의 50%의 마법데미지로 2회 공격한다. 치명타로 적중한 적은 2턴간 기절한다.",
+        "explain": "정신에 직접적인 공격을 가해 기절시킨다.",
+        "cost": 5,
+        "upgrade": 1
+      }
+    ]
+  }

@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "충격파",
+        "img": "Script/Skill/Enemy/SemiBoss/shockwaveImage",
+        "ability": "적 1인을 지정하여 물리공격력의 125%의 물리 데미지로 공격한다. 해당 적의 뒷열의 적 모두에게는 마법공격력의 50%의 마법 데미지로 공격한다.",
+        "explain": "충격파를 발사하여 뒤의 적들까지 공격한다.",
+        "cost": 3,
+        "upgrade": 1
+      }
+    ]
+  }

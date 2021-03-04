@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "집중력 향상",
+        "img": "Script/Skill/Enemy/Normal/reinforcementImage",
+        "ability": "3턴간 자신의 치명타율을 30% 상승시킨다.",
+        "explain": "집중력을 향상시켜 다음 공격이 더 강해진다.",
+        "cost": 4,
+        "upgrade": 1
+      }
+    ]
+  }

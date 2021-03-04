@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "깜짝폭탄",
+        "img": "Script/Skill/Enemy/MainBossPawn/timeBombImage",
+        "ability": "적 1인에게 3턴간 폭탄 표식을 부여한다. 3턴 후, 마법공격력의 200%만큼의 마법데미지로 공격한다. 폭탄은 해제 가능하다.",
+        "explain": "적에게 마법적은 시한폭탄을 넘긴다.",
+        "cost": 4,
+        "upgrade": 1
+      }
+    ]
+  }

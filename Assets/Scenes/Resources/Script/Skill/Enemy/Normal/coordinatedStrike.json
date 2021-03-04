@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "협공",
+        "img": "Script/Skill/Enemy/Normal/coordinatedStrikeImage",
+        "ability": "적 1인을 자신의 무작위 아군 1명과 함께 공격한다. 각자의 물리공격력의 100%의 물리데미지로 공격한다.",
+        "explain": "적을 협공한다.",
+        "cost": 4,
+        "upgrade": 1
+      }
+    ]
+  }

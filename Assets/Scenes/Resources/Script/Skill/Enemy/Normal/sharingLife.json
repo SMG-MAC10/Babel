@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "생명력 분배",
+        "img": "Script/Skill/Enemy/Normal/sharingLifeImage",
+        "ability": "아군의 체력이 한명이라도 50% 미만이 되면 발동한다. 모든 아군의 체력의 비율의 합을 모두에게 동등하게 분배한다.",
+        "explain": "위험에 처한 동료를 구하기 위해 모두의 생명력을 재분배한다.",
+        "cost": 4,
+        "upgrade": 1
+      }
+    ]
+  }

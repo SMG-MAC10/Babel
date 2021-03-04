@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "광분",
+        "img": "Script/Skill/Enemy/SemiBoss/rampageImage",
+        "ability": "자신의 체력이 50% 미만이 되면 활성화된다. 자신의 물리공격력, 마법공격력, 속도가 20%씩 상승한다.",
+        "explain": "생명력이 부족해지면 이성을 잃고 폭주한다.",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }

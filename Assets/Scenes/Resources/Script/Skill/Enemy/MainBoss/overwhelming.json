@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "숨막히는 공포",
+        "img": "Script/Skill/Enemy/MainBoss/overwhelmingImage",
+        "ability": "매 턴 시작시에 모든 적의 최대 HP와 MP를 2%씩 감소시킨다.",
+        "explain": "적들은 골렘이 주는 위압감에 의해 지속적으로 생명력이 감소한다.",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }

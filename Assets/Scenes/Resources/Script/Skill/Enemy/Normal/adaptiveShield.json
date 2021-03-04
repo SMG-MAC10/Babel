@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "적응형 보호막",
+        "img": "Script/Skill/Enemy/Normal/adaptiveShieldImage",
+        "ability": "마법 데미지를 받는 경우, 물리 데미지 피격시까지 모든 마법 데미지 받는 양이 10% 감소한다. 물리 데미지를 받는 경우, 마법 데미지 피격시까지 모든 물리 데미지 받는 양이 10% 감소한다.",
+        "explain": "자신이 받는 공격에 적응하여 보호막을 펼친다",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }

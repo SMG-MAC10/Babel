@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "독무 뿌리기",
+        "img": "Script/Skill/Enemy/Normal/poisonFogImage",
+        "ability": "적 1인에게 3턴간 중독 효과를 부여한다. 중독 효과에 걸린 적은 매 턴 시작시에 공격자의 마법공격력의 60%의 피해를 입는다.",
+        "explain": "독안개를 전개하여 적을 중독시킨다.",
+        "cost": 3,
+        "upgrade": 1
+      }
+    ]
+  }

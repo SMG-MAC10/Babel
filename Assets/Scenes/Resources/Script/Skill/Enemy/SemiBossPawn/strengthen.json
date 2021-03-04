@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "신체 강화",
+        "img": "Script/Skill/Enemy/SemiBossPawn/strengthenImage",
+        "ability": "보스에게 무작위 강화 효과 3개를 3턴간 부여한다. 강화효과는 (물리공격력, 마법공격력, 물리방어력, 마법방어력, 속도) 10% 증가가 있다.",
+        "explain": "보스의 신체를 강화시킨다.",
+        "cost": 3,
+        "upgrade": 1
+      }
+    ]
+  }

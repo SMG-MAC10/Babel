@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "사악한 일격",
+        "img": "Script/Skill/Enemy/Normal/sinisterStrikeImage",
+        "ability": "적 1인에게 자신의 물리공격력의 150%의 물리 데미지로 공격한다. 50%확률로 적을 1턴간 기절시킨다.",
+        "explain": "사악한 일격으로 큰 충격을 준다",
+        "cost": 3,
+        "upgrade": 1
+      }
+    ]
+  }

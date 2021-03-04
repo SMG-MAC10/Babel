@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "약자 멸시",
+        "img": "Script/Skill/Enemy/Normal/weaknessImage",
+        "ability": "체력 수치를 기준으로 현재 체력이 가장 낮은 적을 우선 공격한다.",
+        "explain": "현재 가장 약한 적을 우선 공격한다.",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }

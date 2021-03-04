@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "낙인 생성기",
+        "img": "Script/Skill/Enemy/MainBossPawn/markingGeneratorImage",
+        "ability": "보스가 공격할 때마다, 낙인을 1개 생성하여 보스에게 부여한다.",
+        "explain": "낙인을 자동으로 골렘에게 부여한다.",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }

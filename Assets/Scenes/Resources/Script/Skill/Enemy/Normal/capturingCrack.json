@@ -1,0 +1,12 @@
+  {
+    "skill": [
+      {
+        "skillName": "빈틈 공략",
+        "img": "Script/Skill/Enemy/Normal/capturingCrackImage",
+        "ability": "현재 약화 효과가 가장 많은 적을 우선순위로 공격한다.",
+        "explain": "빈틈이 가장 많은 적을 포착한다.",
+        "cost": 0,
+        "upgrade": 1
+      }
+    ]
+  }
