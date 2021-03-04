@@ -25,7 +25,7 @@ If you meet enemy at the field, the battle is start. In the battle, all characte
 
 =========================================================================
 
-빌드 버전 0.01 / Download ling for Ver 0.01
+빌드 버전 0.01 / Download link for Ver 0.01
 https://drive.google.com/file/d/1vxZJ7uJuSuMXw5bRPI2-xVg2e6w4255i/view?usp=sharing
 
 빌드 버전 0.01 시연 영상 / Video for Ver 0.01
