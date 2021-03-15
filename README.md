@@ -25,6 +25,11 @@ If you meet enemy at the field, the battle is start. In the battle, all characte
 
 =========================================================================
 
+저는 이 프로젝트에서 전투 부분을 담당했으며, 전투 시스템, 스킬, 장비를 구현하였습니다. 제가 작성한 코드는 모두 Assets\Scenes\_Script\Battle 에 위치하고 있습니다.
+In this project, my part is battle system, skills and equipment. all of my scripts are located at Assets\Scenes\_Script\Battle directory.
+
+=========================================================================
+
 빌드 버전 0.01 / Download link for Ver 0.01
 https://drive.google.com/file/d/1vxZJ7uJuSuMXw5bRPI2-xVg2e6w4255i/view?usp=sharing
 
